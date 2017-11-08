@@ -3,6 +3,7 @@
 
 # Reference
 [YT-周莫烦](https://www.youtube.com/channel/UCdyjiB5H8Pu7aDTNVXTTpcg)
+[菜鳥教程](http://www.runoob.com/python3/python3-basic-operators.html)
 
 # vscode設定
 ## pylint-關閉不必要的警告
