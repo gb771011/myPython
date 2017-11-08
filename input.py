@@ -1,4 +1,3 @@
 ''' input.py '''
-name=input('Your Name:')
+name = input('Your Name:')
 print(name)
-

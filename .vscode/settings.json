@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintArgs": [
+        /* "--disable=C0103",
+        "--disable=C0111",
+        "--disable=C0304"
+        "--rcfile=./.pylintrc"
+        */ 
+        ]
+}
