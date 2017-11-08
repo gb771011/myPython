@@ -1,8 +1,11 @@
-# 基本語法
-## 運算子
+# Index
+* [基本語法](./syntax.md)
+
+# Reference
+[YT-周莫烦](https://www.youtube.com/channel/UCdyjiB5H8Pu7aDTNVXTTpcg)
 
 # vscode設定
-## 關閉不必要的pylint警告
+## pylint-關閉不必要的警告
 vsc的預設python語法檢查工具是pylint，但是會常常出現一些不太重要的警告，可以在vsc的工作區設定中關掉它
 * 設定pylint的引數
     1. 開啟設定( **Ctrl+,** )
@@ -30,5 +33,3 @@ vsc的預設python語法檢查工具是pylint，但是會常常出現一些不�
     建立設定檔案的好處是可以針對其他項目做進一步的設定，但注意，一旦pylint有在工作區找到設定檔案，之後在該工作區下使用cmd操作pylint時就會自動導入設定檔案&檢查
 
 ---
-# Reference
-[YT-周莫烦](https://www.youtube.com/channel/UCdyjiB5H8Pu7aDTNVXTTpcg)
